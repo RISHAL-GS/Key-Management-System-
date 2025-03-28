@@ -16,13 +16,14 @@ The **Key Management System (KMS)** is a Python-based system that securely gener
 
 ## Installation
 
-1. Install Python (if not already installed).
-2. Install required dependencies:
+1. Install Python (if not already installed). if you want to use this codes.
+2. you can also run this on google collab.
+3. Install required dependencies:
 
    ```sh
    pip install cryptography
    ```
-3. Run the script:
+4. Run the script:
    ```sh
    python kms.py
    ```
@@ -161,5 +162,5 @@ This project is licensed under the MIT License.
 ---
 
 ## Author
-**Your Name**
+**Rishal G shriyan**
 
