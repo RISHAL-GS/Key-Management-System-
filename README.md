@@ -166,6 +166,10 @@ You can also run this project on Google Colab by clicking the button below:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-CHgtq-UTkTVEFRW02IXPGU2Hwv60Rg_?usp=sharing)
 
+##CLONE THE REPO
+```
+gh repo clone RISHAL-GS/Key-Management-System-
+```
 ## Author
 **Rishal G shriyan**
 
